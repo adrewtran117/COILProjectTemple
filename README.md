@@ -22,3 +22,8 @@ This project analyzes a superstore’s sales data to understand which customers 
 #### 4) You will receive an output url that looks like the following "localhost:XXXX" 
 #### 5) Click on it to open the webpage on your browser.
 
+## Literature and Resources
+#### https://corporatefinanceinstitute.com/resources/accounting/customer-profitability-analysis/
+#### https://www.coursera.org/articles/what-is-power-bi
+#### https://pg-p.ctme.caltech.edu/blog/data-science/why-use-python-for-data-science
+
