@@ -14,3 +14,11 @@ This project analyzes a superstore’s sales data to understand which customers 
 ## Ajman University contributions: PowerBI Business Model, IPYNB Python script with analytics (customer_profitability.ipynb).
 
 ## Temple University Contributions: Gradio webpage displaying interactive platform for viewing data and business model (WebpageScript.py).
+
+## Instructions to run WebpageScript.py
+#### 1) Ensure you have python on your device
+#### 2) Install the following 'pip install gradio, pip install pandas, pip install plotly'
+#### 3) Run the python script
+#### 4) You will receive an output url that looks like the following "localhost:XXXX" 
+#### 5) Click on it to open the webpage on your browser.
+
