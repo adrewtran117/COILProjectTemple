@@ -9,7 +9,8 @@ This project analyzes a superstore’s sales data to understand which customers 
 #### customer_profitability.ipynb: python script with analytics on superstore data
 #### Webpagescript.py: script for launching interactive web tool
 #### Final_BI_Report_AU.pdf: BI report created by Ajman University
-#### PowerBipng(1,2,3,4,5): Slideshow png images of PowerBI analytics
+#### PowerBi(1,2,3,4,5).png: Slideshow png images of PowerBI analytics
+#### superstore.csv: 
 
 ## Resources:
 #### Programming Language: Python
