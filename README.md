@@ -10,7 +10,7 @@ This project analyzes a superstore’s sales data to understand which customers 
 #### Webpagescript.py: script for launching interactive web tool
 #### Final_BI_Report_AU.pdf: BI report created by Ajman University
 #### PowerBi(1,2,3,4,5).png: Slideshow png images of PowerBI analytics
-#### superstore.csv: 
+#### superstore.csv: dataset used in project
 
 ## Resources:
 #### Programming Language: Python
