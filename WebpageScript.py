@@ -101,5 +101,4 @@ iface = gr.Interface(fn=create_box_plot,
                      theme="compact", 
                      css=custom_css)
 
-# Launch the Gradio app
 iface.launch()
