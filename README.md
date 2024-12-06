@@ -36,3 +36,7 @@ This project analyzes a superstore’s sales data to understand which customers 
 #### https://pg-p.ctme.caltech.edu/blog/data-science/why-use-python-for-data-science
 #### Superstore.csv file (Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
+## Conclusion
+#### During this poject...
+
+
