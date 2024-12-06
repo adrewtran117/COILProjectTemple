@@ -11,6 +11,6 @@ This project analyzes a superstore’s sales data to understand which customers 
 #### Environment: Python and Conda
 #### Database: CSV Files
 
-## Ajman University contributions: PowerBI Business Model, IPYNB Python script with analytics.
+## Ajman University contributions: PowerBI Business Model, IPYNB Python script with analytics (customer_profitability.ipynb).
 
-## Temple University Contributions: Gradio webpage displaying interactive platform for viewing data and business model.
+## Temple University Contributions: Gradio webpage displaying interactive platform for viewing data and business model (WebpageScript.py).
