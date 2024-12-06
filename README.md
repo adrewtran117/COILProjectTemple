@@ -23,6 +23,7 @@ This project analyzes a superstore’s sales data to understand which customers 
 #### 5) Click on it to open the webpage on your browser.
 
 ## Literature and Resources
+### Our literature search helped us ideate our project and determine what technologies to use.
 #### https://corporatefinanceinstitute.com/resources/accounting/customer-profitability-analysis/
 #### https://www.coursera.org/articles/what-is-power-bi
 #### https://pg-p.ctme.caltech.edu/blog/data-science/why-use-python-for-data-science
