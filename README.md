@@ -31,35 +31,35 @@ This project analyzes a superstore’s sales data to understand which customers 
 
 
 ## Literature and Resources:
-## ashishtomar99. (2020). GitHub - ashishtomar99/ColgatePalmoliveAmazon_Profitability_IndustryPracticum: Amazon profitability prediction and trade
-## profit optimization using SKU bundling strategy for a New York based Fortune 200
-## CPG company. GitHub. https://github.com/ashishtomar99/ColgatePalmoliveAmazon_Profitability_IndustryPracticum
+ashishtomar99. (2020). GitHub - ashishtomar99/ColgatePalmoliveAmazon_Profitability_IndustryPracticum: Amazon profitability prediction and trade
+profit optimization using SKU bundling strategy for a New York based Fortune 200
+CPG company. GitHub. https://github.com/ashishtomar99/ColgatePalmoliveAmazon_Profitability_IndustryPracticum
 
-## Bhadoria, A. (2020, October 28). Customer Profitability Analysis: Definition,
-## Formula, Benefits - SmartKarrot. SmartKarrot L Comprehensive Customer Success.
-## https://www.smartkarrot.com/resources/blog/customer-profitability-analysis/
+Bhadoria, A. (2020, October 28). Customer Profitability Analysis: Definition,
+Formula, Benefits - SmartKarrot. SmartKarrot L Comprehensive Customer Success.
+https://www.smartkarrot.com/resources/blog/customer-profitability-analysis/
 
-## Chowdhury, V. (2021). Superstore Dataset. Www.kaggle.com.
-## https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+Chowdhury, V. (2021). Superstore Dataset. Www.kaggle.com.
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-## Customer Profitability Analysis. (2024, June 13). DealHub.
-## https://dealhub.io/glossary/customer-profitability-analysis/
+Customer Profitability Analysis. (2024, June 13). DealHub.
+https://dealhub.io/glossary/customer-profitability-analysis/
 
-## Gupta, A. (2020, December 24). Regression Analysis In Excel With Example - 
-## Simplilearn. Simplilearn.com. https://www.simplilearn.com/tutorials/exceltutorial/regression-analysis
+Gupta, A. (2020, December 24). Regression Analysis In Excel With Example - 
+Simplilearn. Simplilearn.com. https://www.simplilearn.com/tutorials/exceltutorial/regression-analysis
 
-## Kenton, W. (2023). What is pareto analysis? How to create a pareto chart and
-## example. Investopedia. https://www.investopedia.com/terms/p/pareto-analysis.asp
+Kenton, W. (2023). What is pareto analysis? How to create a pareto chart and
+example. Investopedia. https://www.investopedia.com/terms/p/pareto-analysis.asp
 
-##  PAGE. (2022, September 29). Creating ONE PAGE with MULTIPLE TABS in Power
-## BI Report using BOOKMARK NAVIGATOR BUTTONS. YouTube.
-## https://youtu.be/Ng1EylK8KXU?si=W8NrAzMsG5aDmMJ2
+PAGE. (2022, September 29). Creating ONE PAGE with MULTIPLE TABS in Power
+BI Report using BOOKMARK NAVIGATOR BUTTONS. YouTube.
+https://youtu.be/Ng1EylK8KXU?si=W8NrAzMsG5aDmMJ2
 
 ## Conclusion:
-## In conclusion, the implementation of a Gradient Boosting Classifier for customer profitability
-## analysis enables businesses to accurately identify and segment their customers based on
-## profitability, thereby facilitating targeted strategies that enhance operational efficiency and
-## maximize profitability. This analytical approach not only addresses the complexities of customer
-## behaviour but also provides actionable insights for improving underperforming areas and
-## fostering customer retention.
+In conclusion, the implementation of a Gradient Boosting Classifier for customer profitability
+analysis enables businesses to accurately identify and segment their customers based on
+profitability, thereby facilitating targeted strategies that enhance operational efficiency and
+maximize profitability. This analytical approach not only addresses the complexities of customer
+behaviour but also provides actionable insights for improving underperforming areas and
+fostering customer retention.
 
