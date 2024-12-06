@@ -34,4 +34,5 @@ This project analyzes a superstore’s sales data to understand which customers 
 #### https://corporatefinanceinstitute.com/resources/accounting/customer-profitability-analysis/
 #### https://www.coursera.org/articles/what-is-power-bi
 #### https://pg-p.ctme.caltech.edu/blog/data-science/why-use-python-for-data-science
+#### Superstore.csv file (Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
